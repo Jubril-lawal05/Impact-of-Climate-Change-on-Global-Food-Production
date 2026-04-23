@@ -16,4 +16,4 @@ clean_data <- raw_data %>%
     climate_impacts
   ) %>%
   drop_na()
-
+View(clean_data_v2)
