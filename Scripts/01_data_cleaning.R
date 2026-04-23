@@ -19,3 +19,4 @@ clean_data_v2 <- raw_data %>%
     drought_index = annual_precipitation_change_each_study_mm /
       current_annual_precipitation_mm_point_coordinate
   )
+write.csv(clean_data_v2, "data/clean_data_v2.csv", row.names = FALSE)
