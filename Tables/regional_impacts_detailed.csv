@@ -1,0 +1,114 @@
+"country","region","crop","avg_impact","avg_temp_change","avg_precip_change","n_observations"
+"South Africa","Africa","Wheat",-86.45925,4.118,-38.346,2
+"Paraguay","Central and South America","Soybean",-84.07585,4.118,-19.7208,2
+"United States","North America","Soybean",-63.96495,4.118,35.4244,2
+"Thailand","Asia","Maize",-62.5599454545455,4.89145454545455,123.8028,11
+"Brazil","Central and South America","Wheat",-61.6173666666667,4.44866666666667,33.5983999999999,3
+"Pakistan","Asia","Rice",-60.300725,4.614,23.3728,4
+"Nigeria","Africa","Maize",-56.0778181818182,4.89145454545455,118.69,11
+"Argentina","Central and South America","Soybean",-55.891,4.118,1.46079999999999,2
+"India","Asia","Soybean",-53.7775,4.249,102.256,4
+"United States","North America","Rice",-51.986275,4.614,-5.47799999999997,4
+"Venezuela","Central and South America","Maize",-51.05819,4.8696,-124.5332,10
+"Pakistan","Asia","Maize",-47.35838,4.8696,30.6768,10
+"Pakistan","Asia","Wheat",-47.08432,4.44866666666667,24.1032,3
+"Saudi Arabia","Asia","Wheat",-45.1326466666667,4.44866666666667,19.7208,3
+"Benin","Africa","Maize",-45,4.7425,NA,4
+"India","Asia","Wheat",-43.5245428571429,4.54657142857143,-32.44,7
+"Egypt","Africa","Maize",-39.114828,4.8696,-2.1912,10
+"Vietnam","Asia","Maize",-38.8451036363636,4.89145454545455,140.9672,11
+"Uganda","Africa","Maize",-38.5965727272727,4.89145454545455,217.6592,11
+"Indonesia","Asia","Maize",-36.573744,4.8836,128.5504,10
+"Malawi","Africa","Maize",-35.4036727272727,4.89145454545455,4.54747350886464e-14,11
+"Iran","Asia","Wheat",-34.0150233333333,4.2612380952381,-50.33716,21
+"India","Asia","Maize",-33.9561716666667,4.82633333333333,167.769866666667,12
+"Paraguay","Central and South America","Maize",-32.732227,4.8836,-44.1892000000001,10
+"China","Asia","Soybean",-31.8960666666667,4.01533333333333,77.1467333333333,3
+"Brazil","Central and South America","Maize",-30.460156,4.8836,-2.19119999999994,10
+"United States","North America","Maize",-30.296349,4.8836,43.8240000000001,10
+"Greece","Europe","Maize",-29.4478588888889,4.84288888888889,-94.952,9
+"Mexico","Central and South America","Wheat",-29.3152433333333,4.44866666666667,-25.9292,3
+"Iran","Asia","Rice",-28.5470724306191,4.5172,11.3212,5
+"Philippines","Asia","Maize",-27.2093118181818,4.89145454545455,354.244,11
+"Mexico","Central and South America","Maize",-26.2136818181818,4.88872727272727,-46.1341333333333,11
+"Argentina","Central and South America","Wheat",-25.6329666666667,4.44866666666667,-8.03439999999996,3
+"India","Asia","Rice",-24.7871715151515,4.13745454545455,203.366933333333,33
+"Tanzania","Africa","Maize",-24.5131730769231,4.73738461538462,128.9156,13
+"Kazakstan","Asia","Wheat",-24.3074733333333,4.44866666666667,46.0152,3
+"Croatia","Europe","Maize",-24.263559,4.8836,-130.0112,10
+"Italy","Europe","Maize",-23.800478,4.8836,-99.6996,10
+"Bangladesh","Asia","Rice",-22.93475,4.614,238.4756,4
+"Cambodia, Laos, Myanmar, Thailand, Vietnam","Asia","Rice",-22.5268875,4.99,85.1799906144,8
+"Hungary","Europe","Maize",-22.469273,4.8836,-63.1796,10
+"Global","Global","Wheat",-22.4,4.99,NA,1
+"Romania","Europe","Maize",-22.2753944444444,4.85844444444444,-56.606,9
+"Global","Global","Maize",-21.85,4.97,NA,3
+"Canada","North America","Maize",-21.4760853846154,4.89430769230769,100.85536,13
+"Russia","Europe","Wheat",-20.077335,4.524,45.6499999999999,4
+"Cambodia","Asia","Rice",-19.2438175,4.614,154.4796,4
+"Egypt","Africa","Rice",-19.0295275,4.614,-13.5124,4
+"China","Asia","Maize",-18.940278,4.7838,168.8094,20
+"Ethiopia","Africa","Wheat",-18.86984,4.09773333333333,167.6268,15
+"Turkmenistan_Rep","Asia","Wheat",-18.27905,4.118,-3.65200000000002,2
+"Kenya","Africa","Maize",-16.197415,4.8836,128.5504,10
+"Ukraine","Europe","Maize",-15.772361,4.8836,-24.8336,10
+"France","Europe","Maize",-15.3710377777778,4.85844444444444,-59.1624,9
+"Canada","North America","Soybean",-15.2610866666667,4.93,NA,3
+"South Africa","Africa","Maize",-14.433644,4.8836,-49.6672,10
+"Nepal","Asia","Maize",-14.361117,4.8696,304.2116,10
+"Australia","Australasia","Wheat",-13.9398608695652,4.00721739130435,-34.3288,23
+"Spain","Europe","Wheat",-13.8619666666667,4.44866666666667,-120.8812,3
+"Italy","Europe","Rice",-13.75,3.68,NA,2
+"Ethiopia","Africa","Maize",-13.693924,4.7706,134.0284,10
+"Egypt","Africa","Wheat",-13.4357333333333,4.44866666666667,-3.2868,3
+"Sri Lanka","Asia","Rice",-13.42685,4.118,117.5944,2
+"Argentina","Central and South America","Maize",-13.3816177777778,4.85844444444444,2.27373675443232e-14,9
+"Iran","Asia","Maize",-13.11524375,4.8095,-2.19120000000003,8
+"Thailand","Asia","Rice",-12.38878375,4.15725,103.21386579,16
+"Algeria","Africa","Wheat",-12.1513333333333,4.44866666666667,-19.7208,3
+"China","Asia","Rice",-11.975218,4.37744,86.9281363750476,25
+"Canada","North America","Wheat",-11.9085683333333,4.68933333333333,57.69328,6
+"Global","Global","Soybean",-11.6,4.99,NA,1
+"Global","Global","Rice",-10.8,4.99,NA,1
+"Nigeria","Africa","Rice",-10.745615,4.614,120.1508,4
+"Jordan","Asia","Wheat",-9.7125,4.39,-49.1,8
+"Turkey","Europe","Wheat",-8.441488,4.1932,42.4769083333333,5
+"Korea_Rep","Asia","Rice",-7.84543846153846,4.89276923076923,181.8696,13
+"Nepal","Asia","Rice",-7.7904186488818,4.5472,310.7852,5
+"Austria","Europe","Maize",-7.327547,4.8836,-71.214,10
+"France","Europe","Wheat",-6.78046666666667,4.44866666666667,-24.8336,3
+"Morocco","Africa","Wheat",-6.62860222222222,4.58288888888889,-101.639125,9
+"Philippines","Asia","Rice",-5.4325025,4.614,283.7604,4
+"Brazil","Central and South America","Rice",-4.677945,4.614,28.8508,4
+"Turkey","Europe","Maize",-4.070777,4.8696,-40.5372,10
+"Laos","Asia","Rice",-3.321175,4.118,102.6212,2
+"Indonesia","Asia","Rice",-3.06365,4.614,187.7128,4
+"Vietnam","Asia","Rice",-2.9284175,4.614,182.6,4
+"Poland","Europe","Maize",-2.50954777777778,4.85844444444444,40.5372,9
+"Ukraine","Europe","Wheat",-2.15383333333333,4.44866666666667,-12.782,3
+"Italy","Europe","Wheat",-1.84923333333334,4.44866666666667,-95.6824000000001,3
+"Korea_Dem_People's_Rep","Asia","Maize",-0.903886000000001,4.8836,142.7932,10
+"Germany","Europe","Maize",-0.254408,4.8836,44.9196,10
+"Nepal","Asia","Wheat",1.63902400906444,4.28,NA,1
+"Greece","Europe","Wheat",2.38220333333333,4.44866666666667,-93.8564,3
+"Denmark","Europe","Wheat",2.95628,4.44866666666667,143.5236,3
+"Myanmar","Asia","Rice",3.289115,4.614,143.8888,4
+"Russia","Europe","Maize",3.42329363636364,4.89145454545455,58.0668,11
+"China","Asia","Wheat",4.24180756756757,4.14421621621622,113.419896,37
+"United States","North America","Wheat",4.7222320754717,3.7195,17.2956,53
+"Sweden","Europe","Wheat",4.79534333333333,4.44866666666667,100.7952,3
+"Bulgaria","Europe","Wheat",6.59317333333333,4.44866666666667,-57.7016,3
+"Spain","Europe","Maize",6.64244363636363,4.89145454545455,-129.2808,11
+"Madagascar","Africa","Rice",7.3685175,4.614,22.6424,4
+"Hungary","Europe","Wheat",8.88676666666666,4.44866666666667,-56.606,3
+"Brazil","Central and South America","Soybean",9.74091666666667,3.97266666666667,-17.5296,6
+"Romania","Europe","Wheat",10.0165766666667,4.44866666666667,-56.9712,3
+"Poland","Europe","Wheat",10.7786666666667,4.44866666666667,56.9712,3
+"Czech Republic","Europe","Wheat",12.12005,4.44866666666667,-0.365200000000027,3
+"Germany","Europe","Wheat",12.3011833333333,4.44866666666667,55.1452,3
+"Japan","Asia","Rice",15.3316046153846,3.91892307692308,196.944655329663,13
+"Uzbekistan","Asia","Wheat",17.7158333333333,4.44866666666667,1.46079999999998,3
+"United Kingdom","Europe","Wheat",32.4532,4.44866666666667,58.432,3
+"Afghanistan","Asia","Wheat",36.576,4.44866666666667,-18.6252,3
+"Syria","Africa","Wheat",36.91045,4.118,-46.0152,2
+"Syria","Asia","Wheat",44.4068,5.11,NA,1
