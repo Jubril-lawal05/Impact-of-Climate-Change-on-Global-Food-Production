@@ -1,4 +1,4 @@
-# Ruda's Climate Change × Food Production Analysis
+# Climate Change × Food Production Analysis
 **Dataset:** clean_data.csv | 4,364 simulations | 83 countries | 6 regions | 4 crops  
 **Variables:** crop, country, region, local_delta_t, global_delta_t_from_pre_industrial_period, projected_yield_t_ha, climate_impacts (%)
 
